@@ -1,0 +1,15 @@
+#day tech_or_event
+#(This is for Poland)
+0 civilian
+1 export
+59 partial
+140 newciv
+151 construction
+188 industry
+210 newciv
+496 construction
+515 industry
+1200 construction
+1245 industry
+1925 construction
+1945 industry

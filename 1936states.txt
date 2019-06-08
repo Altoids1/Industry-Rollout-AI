@@ -1,0 +1,18 @@
+#mils civs slots infra
+2 1 5 6 danzig
+0 1 6 6 poznan
+0 2 4 6 lodz
+0 0 2 6 plock
+6 2 8 7 warszawa
+0 0 4 6 kielce
+1 3 8 6 krakow
+0 1 2 5 bialystok
+0 2 4 5 lublin
+0 0 4 5 stanislawow
+0 3 6 6 lwow
+0 0 4 5 wolyn
+0 0 2 3 polesie
+0 0 2 5 nowogrodek
+0 1 2 5 wilno
+0 0 2 4 wilejka
+0 1 6 6 katowice
