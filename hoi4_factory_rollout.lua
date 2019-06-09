@@ -246,7 +246,7 @@ local startstates = {
 	},
 	toastercivs = 0
 }
-local sf = io.open("D:\\Scripts\\Lua\\hoi4_industry_rollout\\1936states.txt")
+local sf = io.open("D:\\Scripts\\Lua\\hoi4_industry_rollout\\Industry-Rollout-AI\\1936states.txt")
 if sf then
 	for line in sf:lines() do
 		if line:sub(1,1) ~= "#" then
@@ -297,7 +297,7 @@ eventfuncs = {
 }
 events = {}
 
-local ef = io.open("D:\\Scripts\\Lua\\hoi4_industry_rollout\\events.txt")
+local ef = io.open("D:\\Scripts\\Lua\\hoi4_industry_rollout\\Industry-Rollout-AI\\events.txt")
 if ef then
 	for line in ef:lines() do
 		if line:sub(1,1) ~= "#" then
